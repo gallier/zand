@@ -1,0 +1,91 @@
+button, .webix_el_button button { 
+    background:  #fff;
+    color:  #333;
+    border:  1px solid #999;
+}
+button:hover,.webix_el_button button:hover {
+    background:  #ccc;
+}
+.btnSave button, .btnSave div button {
+    background: #2686f3 !important;
+    border:  1px solid #999;
+    color:  #fff !important;
+}
+.blueBtn button, .blueBtn div button {
+	background:  #fff;
+    color:  #333;
+    border:  1px solid 
+}
+
+.mapsBtn {
+	margin-left: 10px
+}
+.nobullet {
+	list-style-type: none;
+}
+.label {
+	float:  left;
+	width:  100px;
+	font-style:  italic;
+}
+.item {
+	float:  left;
+	width:  240px;
+}
+.mineralItem {
+	float:  left;
+	width:  400px;
+}
+
+.zandThumbsCss .webix_list_item {
+	height:  102px !important;
+	padding:  4px 8px 8px 8px;
+	border-bottom: 1px solid #ccc;
+}
+.zandThumbsCss img {
+	margin-bottom:  -14px;
+}
+.mineralInfoUl {
+	min-height:  220px;
+}
+sub, sup {
+	font-size:  10px;
+}
+.landLst {
+	color: #2686f3;
+}
+.landLabelLst {
+	padding-left:  12px;
+}
+
+#vergelijkBtnId {
+	margin:  8px 0 0 165px;
+	width:  120px;
+	height: 24px;
+	border:  1px solid #2686f3;
+	border-radius:  5px;
+}
+#compareCls {
+	width:  600px;
+	min-height:  400px;
+	margin:  4px;
+	border:  1px solid #999;
+}
+#info_left, #info_right {
+	height:  200px;
+	border:  1px solid #ccc;
+	margin:  0 5px 15px 5 px;
+	padding:  10px;
+}
+#info_left .item, #info_right .item {
+	width:  400px;
+}
+.imgInfoBtn {
+	background:  #efefef;
+	border-radius:  5px;
+	border:  1px solid #2686f3;
+}
+/* #formuleFld {
+	border:  1px solid #999;
+	border-radius:  4px !important;
+} */

@@ -1,0 +1,35 @@
+# osx noise
+.DS_Store
+profile
+
+# xcode noise
+build/*
+*.mode1
+*.mode1v3
+*.mode2v3
+*.perspective
+*.perspectivev3
+*.pbxuser
+*.xcworkspace
+xcuserdata
+
+# svn & cvs
+.svn
+CVS
+
+# 
+confif.codekit3
+favicon.ico
+.phpintel/*
+
+# webix files
+assets/*
+libs/*
+gulpfile.js
+jshint.conf.js
+bower.json
+package.json
+
+# resources
+user_resources/*
+*.txt
